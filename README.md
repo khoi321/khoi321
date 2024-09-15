@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hello, I'm @khoi321.
 - 👀 I'm interested in Programming.
-- 🌱 Currently I'm learning HTML, C++, Js, CSS.
+- 🌱 Currently I'm learning HTML, C++, Js, CSS,Python.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I'm very friendly.
 
